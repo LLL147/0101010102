@@ -2,7 +2,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({                            
-  base: '/VuePress/',
+  //base: '/VuePress/',
   lang: 'zh-CN',
   title: '鹿耀站点',
   locales: {
